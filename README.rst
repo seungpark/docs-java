@@ -4,7 +4,7 @@ MongoDB Java Driver Documentation
 
 This repository contains documentation for the MongoDB Java Driver.
 
-test commit - testing awaiting in gatsby transform sharp 4
+test commit - testing awaiting in gatsby transform sharp 5 - logging system info via `gatsby info`
 
 
 File JIRA Tickets
